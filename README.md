@@ -1,2 +1,2 @@
 # policycompass-scenarios
-Source Data for the Test Scenarios
+This repository contains raw data for the Policy Compass scenarios.
